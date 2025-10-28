@@ -18,4 +18,8 @@ This presentation is **Part 1 of a 15-part course** titled *Evidence-Based Decis
 
 The course teaches students, practitioners, and policymakers how to apply scientific evidence, structured frameworks, and ethical reasoning to make better decisions in healthcare and public health.
 
-🔗 **Explore the full series and related resources:** [https://drjayvarma.com](https://drjayvarma.com)
+**Explore the full series and related resources:** 
+
+    * ## Resources
+    * - 📑 [Slides (PDF)] 
+    * - 📂 [Slides (PowerPoint)]
