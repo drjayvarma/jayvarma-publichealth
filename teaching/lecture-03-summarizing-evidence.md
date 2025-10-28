@@ -14,8 +14,8 @@ How do you judge the quality of evidence when it’s inconsistent, biased, or in
 - Why transparent reasoning matters in public health  
 
 ## Resources
-- 📑 [Slides (PDF)](lecture-3-summarizing-evidence.pdf)  
-- 📂 [Slides (PowerPoint)](lecture-3-summarizing-evidence.pptx)
+- 📑 [Slides (PDF)](lecture-03-summarizing-evidence.pdf)  
+- 📂 [Slides (PowerPoint)](lecture-03-summarizing-evidence.pptx)
 
 ## About the Course
 This presentation is **Part 3 of a 15-part course** titled *Evidence-Based Decision Making in Healthcare*, developed and taught by Dr. Jay K. Varma — physician, epidemiologist, and expert in global public health.
