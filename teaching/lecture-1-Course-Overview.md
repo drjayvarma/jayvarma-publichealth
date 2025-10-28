@@ -21,5 +21,5 @@ The course teaches students, practitioners, and policymakers how to apply scient
 **Explore the full series and related resources:** 
 
     * ## Resources
-    * - 📑 [Slides (PDF)] 
-    * - 📂 [Slides (PowerPoint)]
+    * - 📑 [Slides (PDF)] (lecture-1-course-overview.pdf)
+    * - 📂 [Slides (PowerPoint)] (lecture-1-course-overview.pptx)
