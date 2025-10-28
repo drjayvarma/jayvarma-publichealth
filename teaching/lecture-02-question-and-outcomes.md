@@ -14,8 +14,8 @@ In this lecture, Dr. Jay Varma explains why framing the right question is the fo
 - Real-world examples including public health interventions  
 
 ## Resources
-- 📑 [Slides (PDF)](lecture-2-question-and-outcomes.pdf)  
-- 📂 [Slides (PowerPoint)](lecture-2-question-and-outcomes.pptx)
+- 📑 [Slides (PDF)](lecture-02-question-and-outcomes.pdf)  
+- 📂 [Slides (PowerPoint)](lecture-02-question-and-outcomes.pptx)
 
 ## About the Course
 This presentation is **Part 2 of a 15-part course** titled *Evidence-Based Decision Making in Healthcare*, developed and taught by Dr. Jay K. Varma — physician, epidemiologist, and expert in global public health.
