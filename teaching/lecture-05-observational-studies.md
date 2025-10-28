@@ -17,8 +17,8 @@ Using a memorable and simple example (candy and heart attacks), this presentatio
 6. When randomized trials are not feasible or ethical  
 
 ## Resources
-- 📑 [Slides (PDF)](lecture-5-observational-studies.pdf)  
-- 📂 [Slides (PowerPoint)](lecture-5-observational-studies.pptx)
+- 📑 [Slides (PDF)](lecture-05-observational-studies.pdf)  
+- 📂 [Slides (PowerPoint)](lecture-05-observational-studies.pptx)
 
 ## About the Course
 This presentation is **Part 5 of a 15-part course** titled *Evidence-Based Decision Making in Healthcare*, developed and taught by Dr. Jay K. Varma — physician, epidemiologist, and expert in global public health.
